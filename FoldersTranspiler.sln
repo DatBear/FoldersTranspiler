@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoldersTranspiler", "FoldersTranspiler\FoldersTranspiler.csproj", "{A0A306A6-4445-4685-B18D-8FB7322A0A6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0A306A6-4445-4685-B18D-8FB7322A0A6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0A306A6-4445-4685-B18D-8FB7322A0A6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0A306A6-4445-4685-B18D-8FB7322A0A6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0A306A6-4445-4685-B18D-8FB7322A0A6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FECA0F7-8CA1-4C3C-BD4F-4D55B4F4188C}
+	EndGlobalSection
+EndGlobal

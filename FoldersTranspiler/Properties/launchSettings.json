@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FoldersTranspiler": {
+      "commandName": "Project",
+      "commandLineArgs": "Programs/HelloWorld.cs transpiled/HelloWorld"
+    }
+  }
+}
